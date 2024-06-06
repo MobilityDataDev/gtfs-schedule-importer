@@ -1,11 +1,11 @@
 export const trip = {
-  trip_id: {
-    type: 'string'
-  },
   route_id: {
     type: 'string'
   },
   service_id: {
+    type: 'string'
+  },
+  trip_id: {
     type: 'string'
   },
   trip_headsign: {
